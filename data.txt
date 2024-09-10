@@ -1,3 +1,0 @@
-Q1.) Why are you interested in taking DATA602?
-
-Ans.) I want to take the DATA602 class because I am passionate about data and to uncover insights and solve complex problems. My background in AIML and my experience during my internship have shown me how data-driven decisions can significantly impact outcomes. By deepening my understanding of data science, I aim to enhance my skills in data analysis, machine learning, and statistical modeling, which will allow me to contribute more effectively to projects.
